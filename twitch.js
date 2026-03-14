@@ -139,5 +139,8 @@ if (!fs.existsSync('screenshots')) {
     fs.mkdirSync('screenshots');
 }
 
+
+
+
 const screenshotIntervals = [];
 main();
